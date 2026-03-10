@@ -1,0 +1,10 @@
+{
+  "total_requests": 3,
+  "total_errors": 2,
+  "total_success": 1,
+  "endpoint_stats": {
+    "/api/groups": 1,
+    "/api/random/bike": 1,
+    "/api/random/blackpink": 1
+  }
+}
