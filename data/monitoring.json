@@ -1,6 +1,6 @@
 {
-  "total_requests": 94,
-  "total_errors": 16,
+  "total_requests": 96,
+  "total_errors": 18,
   "total_success": 78,
   "endpoint_stats": {
     "/api/groups": 3,
@@ -14,6 +14,6 @@
     "/api/chat/profile/ab89c0fc-bfc3-418e-a5da-a5439015a16b": 1,
     "/api/chat/profile": 1,
     "/api/fun/cekbadut": 15,
-    "/api/auth/register": 9
+    "/api/auth/register": 11
   }
 }
