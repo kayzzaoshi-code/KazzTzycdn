@@ -1,15 +1,14 @@
 {
-  "total_requests": 55,
-  "total_errors": 4,
-  "total_success": 51,
+  "total_requests": 22,
+  "total_errors": 6,
+  "total_success": 16,
   "endpoint_stats": {
-    "/api/groups": 1,
+    "/api/groups": 2,
     "/api/random/bike": 1,
     "/api/random/blackpink": 1,
-    "/api/chat/profile/ee7119ff-bb2d-476e-addc-e60cd41ef543": 5,
+    "/api/chat/profile/ee7119ff-bb2d-476e-addc-e60cd41ef543": 1,
     "/api/chat/register": 3,
-    "/api/monitoring": 15,
-    "/api/chat/messages": 26,
-    "/api/chat/send": 3
+    "/api/monitoring": 12,
+    "/api/cecan/cecanitalia": 2
   }
 }
