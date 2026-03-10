@@ -1,15 +1,15 @@
 {
-  "total_requests": 19,
+  "total_requests": 32,
   "total_errors": 4,
-  "total_success": 15,
+  "total_success": 28,
   "endpoint_stats": {
     "/api/groups": 1,
     "/api/random/bike": 1,
     "/api/random/blackpink": 1,
     "/api/chat/profile/ee7119ff-bb2d-476e-addc-e60cd41ef543": 3,
     "/api/chat/register": 3,
-    "/api/monitoring": 4,
-    "/api/chat/messages": 4,
-    "/api/chat/send": 2
+    "/api/monitoring": 6,
+    "/api/chat/messages": 14,
+    "/api/chat/send": 3
   }
 }
