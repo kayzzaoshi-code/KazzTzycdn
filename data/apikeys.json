@@ -54,6 +54,25 @@
       "last_key_reset": "2026-03-10T20:46:52.114Z",
       "created_at": "2026-03-10T20:46:52.114Z",
       "last_login": "2026-03-10T20:47:42.420Z"
+    },
+    {
+      "username": "tess77",
+      "email": "",
+      "password_hash": "27c1d61d5df85089f245bdc97b9f57d9a115ad9c15ff7dde6d3948b503179896",
+      "apikey": "ZFloryn8T07MULphB",
+      "token": "96915424bad02d738d2e6b1ff2d02c4606156c985eeb1358cc804735585ab140",
+      "pin": "ABCDEF",
+      "photo_url": "",
+      "bio": "",
+      "avatar_color": "#db2777",
+      "is_admin": false,
+      "total_requests": 0,
+      "total_success": 0,
+      "total_errors": 0,
+      "request_limit": 1000,
+      "last_key_reset": "2026-03-10T21:08:23.205Z",
+      "created_at": "2026-03-10T21:08:23.205Z",
+      "last_login": "2026-03-10T21:08:23.205Z"
     }
   ]
 }
