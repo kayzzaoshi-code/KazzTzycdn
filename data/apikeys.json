@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "username": "kazztzy",
+      "email": "kayzzaoshi@gmail.com",
+      "password_hash": "dd70d587b92443662deb662bbe88f831912d5074b0d27a11f17b84973bf12e2a",
+      "apikey": "zf-14e57fdac1d918be40abfd4736e72922929c3ba0",
+      "token": "6e118821979ef3f7623c62a9a235597e6ea2db8d8175e02aaa1fe0bc37e74b8c",
+      "pin": "223033",
+      "photo_url": "",
+      "bio": "",
+      "avatar_color": "#00e5a0",
+      "is_admin": false,
+      "total_requests": 0,
+      "total_success": 0,
+      "total_errors": 0,
+      "created_at": "2026-03-10T20:00:29.703Z",
+      "last_login": "2026-03-10T20:00:29.703Z"
+    }
+  ]
+}
