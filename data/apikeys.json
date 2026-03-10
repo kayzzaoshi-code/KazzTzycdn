@@ -16,6 +16,25 @@
       "total_errors": 0,
       "created_at": "2026-03-10T20:00:29.703Z",
       "last_login": "2026-03-10T20:00:29.703Z"
+    },
+    {
+      "username": "kazzokatsu",
+      "email": "kazzokatsu@gmail.com",
+      "password_hash": "d99e2226ee5a06063845d923c4f7b8734f8a32b1dc7a3242be3a0bf73d745d9b",
+      "apikey": "ZFlorynnVNsM5rHkc",
+      "token": "290789c9ab4b870c68e37fc430b2b016c8f46e359c4258202fab09135bce1984",
+      "pin": "2ST5TW",
+      "photo_url": "http://kazztzysuper89.vercel.app/f/file_1773174569796.jpg",
+      "bio": "",
+      "avatar_color": "#00d4ff",
+      "is_admin": false,
+      "total_requests": 0,
+      "total_success": 0,
+      "total_errors": 0,
+      "request_limit": 1000,
+      "last_key_reset": "2026-03-10T20:31:04.885Z",
+      "created_at": "2026-03-10T20:31:04.885Z",
+      "last_login": "2026-03-10T20:31:04.885Z"
     }
   ]
 }
