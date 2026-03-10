@@ -1,7 +1,7 @@
 {
-  "total_requests": 39,
+  "total_requests": 48,
   "total_errors": 6,
-  "total_success": 33,
+  "total_success": 42,
   "endpoint_stats": {
     "/api/groups": 3,
     "/api/random/bike": 1,
@@ -10,7 +10,7 @@
     "/api/chat/register": 3,
     "/api/monitoring": 16,
     "/api/cecan/cecanitalia": 2,
-    "/api/chat/messages": 8,
+    "/api/chat/messages": 17,
     "/api/chat/profile/ab89c0fc-bfc3-418e-a5da-a5439015a16b": 1,
     "/api/chat/profile": 1
   }
