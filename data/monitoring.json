@@ -1,7 +1,7 @@
 {
-  "total_requests": 121,
+  "total_requests": 122,
   "total_errors": 16,
-  "total_success": 105,
+  "total_success": 106,
   "endpoint_stats": {
     "/api/groups": 5,
     "/api/random/bike": 1,
@@ -15,7 +15,7 @@
     "/api/chat/profile": 1,
     "/api/fun/cekbadut": 15,
     "/api/auth/register": 9,
-    "/api/apikeys": 13,
+    "/api/apikeys": 14,
     "/api/asupan/ukhty": 3
   }
 }
