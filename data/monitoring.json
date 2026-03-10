@@ -1,10 +1,11 @@
 {
-  "total_requests": 3,
+  "total_requests": 4,
   "total_errors": 2,
-  "total_success": 1,
+  "total_success": 2,
   "endpoint_stats": {
     "/api/groups": 1,
     "/api/random/bike": 1,
-    "/api/random/blackpink": 1
+    "/api/random/blackpink": 1,
+    "/api/chat/profile/ab89c0fc-bfc3-418e-a5da-a5439015a16b": 1
   }
 }
